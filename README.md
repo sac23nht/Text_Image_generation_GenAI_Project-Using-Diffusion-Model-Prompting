@@ -86,7 +86,6 @@ This method is lightweight and modular, enabling fast experimentation and increm
 ---
 
 ## Running the Streamlit App
-<img width="1355" height="663" alt="image" src="https://github.com/user-attachments/assets/65535c87-847d-4bd9-b930-4b56135dc96f" />
 
 
 The app provides an interactive interface to:
